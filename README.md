@@ -14,7 +14,7 @@ Special loss: Quantile ||:heavy_check_mark:|:heavy_check_mark:
 Tree size regularization | :heavy_check_mark:| :heavy_check_mark:| :heavy_check_mark:
 Categorical input handling | | :heart: | :two_hearts:
 Constraints: monotonic  | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark:
-Constraints: interaction  | :heavy_check_mark: |          | 
+Constraints: interaction  | :heavy_check_mark: |     :heavy_check_mark:      | 
 Case weights | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 Missing values | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 Interpretation: Importance |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:
@@ -26,3 +26,5 @@ Installation easy | :heavy_check_mark: | Python only | :heavy_check_mark:
 Initial public release | 2014 | 2017 | 2017
 
 This compilation as per May 15, 2020 is neither complete nor does it claim to be correct.
+
+Update as per July 5, 2020: LightGBM has implemented interaction constraints, hurray :-).
