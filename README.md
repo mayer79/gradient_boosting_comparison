@@ -22,9 +22,11 @@ Interpretation: SHAP | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_ma
 Cross-validation | :heavy_check_mark: | :heavy_check_mark: | Python only
 Special mode: Random Forest | :heavy_check_mark: | :heavy_check_mark: |
 Special mode: Linear booster | :heavy_check_mark: | :heavy_check_mark: |
-Installation easy | :heavy_check_mark: | Python only | :heavy_check_mark:
+Installation easy | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 Initial public release | 2014 | 2017 | 2017
 
 This compilation as per May 15, 2020 is neither complete nor does it claim to be correct.
 
-Update as per July 5, 2020: LightGBM has implemented interaction constraints, hurray :-).
+- Update as per July 5, 2020: LightGBM has implemented interaction constraints, hurray :-).
+- Update as per Sept. 25, 2020: LightGBM is on CRAN, hurray again!
+
